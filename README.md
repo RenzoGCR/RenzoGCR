@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola, soy Renzo<br>Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)<br>a punto de graduarme en Cesur . Mi objetivo principal es convertirme en un <br>especialista en el desarrollo de aplicaciones móviles y escritorio.<br><br>Actualmente, me encuentro en la recta final de mis estudios.<br>Estos repositorios son herramientas que he ido necesitando durante mis estudios.
+Hola, soy Renzo<br>Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)<br>a punto de graduarme en Cesur . Mi objetivo principal es convertirme en un <br>especialista en el desarrollo de aplicaciones móviles y escritorio.<br><br>Actualmente, me encuentro en la recta final de mis estudios.<br>Estos repositorios son herramientas que he escrito para usar en mis estudios.
 
 
 ## 🌐 Socials:
